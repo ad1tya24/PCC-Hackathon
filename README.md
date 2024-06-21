@@ -5,6 +5,8 @@
   ### Regex Implementation
   
   - [x] Telephone numbers
+  - [x] Date
+  - [x] Health insurance numbers
   - [x] Email address
   - [x] IP address 
   - [x] URLs 
